@@ -1,0 +1,19 @@
+---
+title: Choice Taxi
+subtitle: Mobile Developement
+layout: default
+modal-id: 2
+date: 2018-01-30
+img: choice-taxi.jpg
+thumbnail: choice-taxi-thumbnail.jpg
+alt: image-alt
+project-date: Sep 2016
+client: Choice Taxi
+project-url: https://play.google.com/store/apps/details?id=kr.co.mcnc.choiceTaxi
+category: Mobile Development (Android & iOS)
+description: "•	Anywhere, anytime, you can call by phone or app
+<br>•	Easier and faster way to take taxi safely in Cambodia
+<br>•	Daily rent, city tour, or province service are also available
+<br>•	You can choose taxi type such as VIP, SUV, and Yellow standard for your demands"
+
+---

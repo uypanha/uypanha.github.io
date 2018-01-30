@@ -1,0 +1,23 @@
+---
+title: PPCBank Mobile Banking
+subtitle: Android Developement
+layout: default
+modal-id: 1
+date: 2018-01-30
+img: ppcbank-mobile-banking.jpg
+thumbnail: ppcbank-mobile-banking-thumbnail.jpg
+alt: image-alt
+project-date: March 2017
+client: PPCBank
+project-url: https://play.google.com/store/apps/details?id=kh.com.ppcbank.mbanking
+category: Mobile Development
+description: "It is the mobile banking application providing PPCBank's customer to perform banking activities in mobile envrionment.
+Key features included
+<br>•	Account Inquiry
+<br>•	Fund Transfer
+<br>•	Interbank Transfer Reservation
+<br>•	Non Account Remittance
+<br>•	Mobile Phone Topup
+<br>•	Scheduled Transfer Registration"
+
+---
