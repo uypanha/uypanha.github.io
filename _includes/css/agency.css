@@ -176,8 +176,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.primary }};
+    font-weight: 700;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -285,10 +286,11 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
     font-size: 22px;
-    font-style: italic;
-    line-height: 22px;
+    font-weight: 700;
+    line-height: 40px;
 }
 
 header .intro-text .intro-heading {
@@ -308,10 +310,11 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
+        text-transform: uppercase;
+        font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
+        font-weight: 700;
+        line-height: 60px;
     }
 
     header .intro-text .intro-heading {
@@ -446,7 +449,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .timeline>li {
@@ -494,7 +497,7 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 7px solid #{{ site.data.template.color.primary }};
     border-radius: 100%;
     text-align: center;
     color: #fff;
