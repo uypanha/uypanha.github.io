@@ -293,6 +293,13 @@ header .intro-text .intro-lead-in {
     line-height: 40px;
 }
 
+header .intro-text .intro-description {
+    margin-bottom: 25px;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 18px;
+    line-height: 30px;
+}
+
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
@@ -315,6 +322,13 @@ header .intro-text .intro-heading {
         font-size: 40px;
         font-weight: 700;
         line-height: 60px;
+    }
+
+    header .intro-text .intro-description {
+        margin-bottom: 25px;
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 18px;
+        line-height: 30px;
     }
 
     header .intro-text .intro-heading {
