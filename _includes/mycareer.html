@@ -1,32 +1,32 @@
 <!-- About Section -->
-    <section id="experience">
+    <section id="mycareer">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Experience</h2><br><br>
+                    <h2 class="section-heading">My Career</h2><br><br>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
-                        {% for company in site.data.experience.companies %}
+                        {% for career in site.data.mycareer.careeries %}
                             <li
                             {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
                             {% if thecycle == 'even' %}
                                 class="timeline-inverted"
                             {% endif %}>
                                 <div class="timeline-image">
-                                    <img class="img-circle img-responsive" src="{{ company.logo }}" alt="">
+                                    <img class="img-circle img-responsive" src="{{ career.logo }}" alt="">
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h6 class="text-primary">{{ company.time }}</h6>
-                                        <h4 class="subheading">{{ company.name }}</h4>
+                                        <h6 class="text-primary">{{ career.time }}</h6>
+                                        <h4 class="subheading">{{ career.name }}</h4>
                                     </div>
                                     <br>
                                     <div class="timeline-body">
-                                        <h5>{{ company.position }}</h5>
-                                        <p class="text-muted">{{ company.description }} </p>
+                                        <h5>{{ career.position }}</h5>
+                                        <p class="text-muted">{{ career.description }} </p>
                                     </div>
                                 </div>
                             </li>
@@ -34,7 +34,7 @@
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>My
-                                    <br>Working
+                                    <br>Career
                                     <br>Timeline!</h4>
                             </div>
                         </li>

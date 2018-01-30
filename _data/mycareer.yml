@@ -1,19 +1,25 @@
 # Experince
-companies:
+careeries:
 - name: Mäd
-  logo: img/experience/mad.jpg
+  logo: img/career/mad.jpg
   time: Feburary 2018 - Present
   position: Mobile Application Developer
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+  description: Fresh Started, nothing to sahre yet. ;)
 
 - name: Mobile C&C (Cambodia) Co.,LTD
-  logo: img/experience/mcnc.jpg
+  logo: img/career/mcnc.jpg
   time: May 2015 - Feburary 2018
   position: Android Application Developer
   description: With this position, I design, build, and maintain high performance, reusable, and reliable java code to application of the company and also client Apps. All applications are needed to identify, correct bottlenecks and fix bugs. Not only to develop application, I’m also involving in R&D (research and development) team to research and build new native component for company’s framework (Android). Responsibility always needed, I help to maintain code quality, organization, and automatization of applications also. Translate the designs and wireframes into high quality code also a part of this position!
 
 - name: Cambodia-Korea Corporation Center (CKCC)
-  logo: img/experience/ckcc.jpg
+  logo: img/career/ckcc.jpg
   time: Jully 2013 - March 2015
   position: Lab Assistant
   description: This is the first position I’ve got and working during perusing my bachelor degree of Computer Science and Engineering. This position requires me to check and maintain software in computer labs, to assist in Computer Lab on every ICT courses (Android, iOS, and other), to Prepare the Computer Lab on following day of training courses and report teaching materials (Software & Hardware) to HRDO. During the working, I’ve involved into developing project <b>“Human Resources Information Management System”</b> for the organization.
+
+- name: Royal University of Phnom Penh
+  logo: img/career/rupp.png
+  time: November 2011 - March 2015
+  position: Student
+  description: Graduated from university with Computer Science and Engineering Bachelor Degree.
