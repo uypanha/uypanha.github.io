@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Android, iOS, React-Native, Angular JS, Ionic, HTML/CSS, MySQL
+percentage: 85, 60, 65, 50, 80, 90, 60

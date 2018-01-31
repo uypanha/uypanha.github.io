@@ -8,6 +8,39 @@
                 </div>
             </div>
             <div class="row text-center">
+                <div class="wow zoomIn col-lg-6 col-lg-offset-3">
+                    <canvas id="{{ site.data.skills.id }}" height="500" width="500"></canvas>
+                    </div>
+                    <div class="col-lg-1"></div>
+                    <script>
+                    var ctx = document.getElementById("{{ site.data.skills.id }}");
+                    var data = {
+                        labels: "{{ site.data.skills.aspects }}".split(","),
+                        datasets: [{
+                            label: "{{ site.data.skills.label }}",
+                            backgroundColor: "rgba(179,181,198,0.2)",
+                            borderColor: "#{{ site.data.template.color.primary }}",
+                            pointBackgroundColor: "#{{ site.data.template.color.primary }}",
+                            pointBorderColor: "#fff",
+                            pointHoverBackgroundColor: "#{{ site.data.template.color.primary }}",
+                            pointHoverBorderColor: "#{{ site.data.template.color.primary }}",
+                            data: [{{ site.data.skills.percentage }}]
+                            }]
+                    };
+                    var myRadarChart = new Chart(ctx, {
+                        type: 'radar',
+                        data: data,
+                        options: {
+                            scale: {
+                                responsive: true,
+                                ticks: {min: 0, max: 100},
+                                lineArc: false,
+                                pointLabels: {fontSize: 14},
+                            },
+                            legend: {display: false},
+                        }
+                    });
+                </script>
                 <!-- <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
