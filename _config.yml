@@ -3,11 +3,16 @@ baseurl: ""
 
 # Site settings
 title: Phanha UY
+logo: img/site/logo.png
+favicon: img/site/favicon.png
 position: Mobile Application<br>Developer
 email: uyphanha.dev@gmail.com
 description: "To involve international development is the interesting things to me that I want to be a part of. It lets me to know what is the real world development, to learn from expertise developers, to do something bad-ass and to make something we call wonderful.
 <br><br>
 Something professional, I am ready to join."
+
+#
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
