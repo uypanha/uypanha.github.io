@@ -7,7 +7,7 @@ date: 2018-01-30
 img: ppcbank-mobile-banking.jpg
 thumbnail: ppcbank-mobile-banking-thumbnail.jpg
 alt: image-alt
-project-date: March 2017
+project-date: June 2016 – Apr 2017
 client: PPCBank
 project-url: https://play.google.com/store/apps/details?id=kh.com.ppcbank.mbanking
 category: Mobile Development

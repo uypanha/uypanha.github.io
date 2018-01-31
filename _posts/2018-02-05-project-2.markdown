@@ -7,7 +7,7 @@ date: 2018-01-30
 img: choice-taxi.jpg
 thumbnail: choice-taxi-thumbnail.jpg
 alt: image-alt
-project-date: Sep 2016
+project-date: Sep 2016 – Sep 2017
 client: Choice Taxi
 project-url: https://play.google.com/store/apps/details?id=kr.co.mcnc.choiceTaxi
 category: Mobile Development (Android & iOS)

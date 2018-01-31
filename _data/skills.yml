@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects:    Android,  iOS,  React-Native,   C/C++,  Java,   VB.NET,   ASP.NET,  Node JS,  Angular JS,   Ionic,  HTML/CSS,   MySQL,  SQL Server
-percentage: 85,       70,   65,             80,     85,     75,       75,       65,       60,           80,     90,         75,     70
+aspects:    Android,  iOS,  React-Native,   Cordova,  bizMob,   C/C++,  Java,   VB.NET,   ASP.NET,  Node JS,  Angular JS,   Ionic,  HTML/CSS,   MySQL,  SQL Server
+percentage: 85,       70,   65,             80,       90,       80,     85,     75,       75,       65,       60,           80,     90,         75,     70

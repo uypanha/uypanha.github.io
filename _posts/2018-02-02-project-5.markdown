@@ -1,0 +1,18 @@
+---
+title: Khla Khlouk Game
+subtitle: Android Developement
+layout: default
+modal-id: 5
+date: 2018-01-30
+img: khlaklouk.jpg
+thumbnail: khlaklouk-thumbnail.jpg
+alt: image-alt
+project-date: Apr 2015 – Apr 2016
+client: Self Application
+project-url: https://play.google.com/store/apps/details?id=com.boriyai.game.khlakhlouk
+category: Mobile Development
+description: "Khla Khlouk Game was a popular game which they play it during every vocations. And now, it comes to live again in your hands while it is developed by Young Cambodia developer. To know more, install and play it.
+<br><br>
+This Game is simple, enjoyable, and adorable. :)"
+
+---

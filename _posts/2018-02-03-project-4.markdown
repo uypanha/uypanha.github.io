@@ -1,0 +1,22 @@
+---
+title: Black Factory Cafe
+subtitle: iOS Developement
+layout: default
+modal-id: 4
+date: 2018-01-30
+img: black-factory-cafe.jpg
+thumbnail: black-factory-cafe-thumbnail.jpg
+alt: image-alt
+project-date: Apr 2017 – Jun 2017
+client: Black Factory Cafe
+project-url: https://itunes.apple.com/kh/app/black-factory-coffee/id1267750523?mt=8
+category: Mobile Development
+description: "It is the mobile application providing Black Factory Cafe's customer to perform some activities in mobile environment.
+Key features included
+<br>- Member Card Inquiry: Add Card, Renew Card, Check Balance, Activate/Deactivate, ...
+<br>- Products in the shop
+<br>- Promotion
+<br>- QR Scanning
+<br>- About the shop"
+
+---
