@@ -311,7 +311,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px;
     }
 
@@ -461,7 +461,7 @@ section h3.section-subheading {
     top: 0;
     bottom: 0;
     left: 40px;
-    width: 2px;
+    width: 4px;
     margin-left: -1.5px;
     background-color: #{{ site.data.template.color.primary }};
 }
