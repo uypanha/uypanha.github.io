@@ -7,6 +7,7 @@ logo: img/site/logo.png
 favicon: img/site/favicon.png
 position: Mobile Application<br>Developer
 email: uyphanha.dev@gmail.com
+phoneno: +(855) 016 225 163
 description: "To involve international development is the interesting things to me that I want to be a part of. It lets me to know what is the real world development, to learn from expertise developers, to do something bad-ass and to make something we call wonderful.
 <br><br>
 Something professional, I am ready to join."
@@ -19,8 +20,10 @@ social:
     url: https://twitter.com/Phanha_Dev
   - title: facebook
     url: https://www.facebook.com/uy.phanha
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/9286950/steven-phanha
+  - title: instagram
+    url: https://www.instagram.com/phanha_uy
+  - title: linkedin
+    url: https://www.linkedin.com/in/uyphanha/
   - title: bitbucket 
     url: https://bitbucket.org/steven_phanha/
   - title: github
