@@ -9,7 +9,11 @@ thumbnail: choice-taxi-thumbnail.jpg
 alt: image-alt
 project-date: Sep 2016 – Sep 2017
 client: Choice Taxi
-project-url: https://play.google.com/store/apps/details?id=kr.co.mcnc.choiceTaxi
+project-url:
+    - url: https://play.google.com/store/apps/details?id=kr.co.mcnc.choiceTaxi
+      name: Android
+    - url: https://itunes.apple.com/kh/app/choice-taxi/id1145694420?mt=8
+      name: iOS
 category: Mobile Development (Android & iOS)
 description: "•	Anywhere, anytime, you can call by phone or app
 <br>•	Easier and faster way to take taxi safely in Cambodia

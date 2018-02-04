@@ -9,7 +9,9 @@ thumbnail: ppcbank-mobile-banking-thumbnail.jpg
 alt: image-alt
 project-date: June 2016 – Apr 2017
 client: PPCBank
-project-url: https://play.google.com/store/apps/details?id=kh.com.ppcbank.mbanking
+project-url:
+    - url: https://play.google.com/store/apps/details?id=kh.com.ppcbank.mbanking
+      name: Android
 category: Mobile Development
 description: "It is the mobile banking application providing PPCBank's customer to perform banking activities in mobile envrionment.
 Key features included

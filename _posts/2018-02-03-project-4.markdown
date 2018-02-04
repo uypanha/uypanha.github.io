@@ -9,7 +9,9 @@ thumbnail: black-factory-cafe-thumbnail.jpg
 alt: image-alt
 project-date: Apr 2017 – Jun 2017
 client: Black Factory Cafe
-project-url: https://itunes.apple.com/kh/app/black-factory-coffee/id1267750523?mt=8
+project-url: 
+    - url: https://itunes.apple.com/kh/app/black-factory-coffee/id1267750523?mt=8
+      name: iOS
 category: Mobile Development
 description: "It is the mobile application providing Black Factory Cafe's customer to perform some activities in mobile environment.
 Key features included

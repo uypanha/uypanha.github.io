@@ -18,7 +18,13 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>See Project:
-                                    <strong><a href="{{ post.project-url }}" target="_blank">{{ post.client }}</a>
+                                    <strong>
+                                        {% for url in post.project-url %}
+                                            <a href="{{ url.url }}" target="_blank">{{ url.name }}</a>
+                                            {% if forloop.index > 0 and forloop.last == false %}
+                                                <b>,</b>
+                                            {% endif %}
+                                        {% endfor %}
                                     </strong>
                                 </li>
                                 <li>Date:
