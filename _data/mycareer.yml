@@ -1,14 +1,14 @@
 # Experince
 careeries:
-#- name: Mäd
-#  logo: img/career/mad.jpg
-#  time: Feburary 2018 - Present
-#  position: Mobile Application Developer
-#  description: Now I'm in Mäd and develop application with React-Native. :)
+- name: M.A.D (Cambodia) Co., Ltd
+  logo: img/career/mad.jpg
+  time: Feburary 2018 - Present
+  position: Mobile Application Developer
+  description: Now I'm in Mäd and develop application with React-Native. :)
 
 - name: Mobile C&C (Cambodia) Co.,LTD
   logo: img/career/mcnc.jpg
-  time: May 2015 - Present #Feburary 2018
+  time: May 2015 - Feburary 2018
   position: Android Application Developer
   description: With this position, I design, build, and maintain high performance, reusable, and reliable java code to application of the company and also client Apps. All applications are needed to identify, correct bottlenecks and fix bugs. Not only to develop application, I’m also involving in R&D (research and development) team to research and build new native component for company’s framework (Android). Responsibility always needed, I help to maintain code quality, organization, and automatization of applications also. Translate the designs and wireframes into high quality code also a part of this position!
 
