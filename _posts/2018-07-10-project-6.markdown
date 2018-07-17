@@ -1,0 +1,28 @@
+---
+title: The ComeBackApp
+subtitle: Mobile Developement
+layout: default
+modal-id: 1
+date: 2018-07-10
+img: thecomebackapp.jpg
+thumbnail: thecomebackapp-thumbnail.png
+alt: image-alt
+project-date: Feb 2018 – Jun 2018
+client: The ComeBackApp Limited
+project-url:
+    - url: https://play.google.com/store/apps/details?id=net.comebackapp.android.demo
+      name: Android
+    - url: https://itunes.apple.com/us/app/comeback-app-come-back-app/id1405525662?mt=8
+      name: iOS
+category: Mobile Development
+description: "This is the Reseller version of the ComeBack App, white-label loyalty app platform.
+
+Key features included
+<br>•	Loyalty Programs
+<br>• Product and Servives Listing
+<br>•	Notifications of New Product or Programs
+<br>•	Ordering Product Or Services
+<br>•	Redeem Your Promotions with just less than 10s
+<br>•	Scheduled Your Reservation or Product Ordering"
+
+---
