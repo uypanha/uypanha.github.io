@@ -4,6 +4,14 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+$(function() {
+    $("html").prognroll({
+      height: 5, //Progress bar height
+      color: "#ff5050", //Progress bar background color
+      custom: false //If you make it true, you can add your custom div and see it's scroll progress on the page
+    });
+  });
+
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function () {
     $('a.page-scroll').bind('click', function (event) {
