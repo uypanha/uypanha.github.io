@@ -1,0 +1,24 @@
+---
+title: SwiftDragAndDrop
+subtitle: iOS Framework Developement
+layout: default
+modal-id: 7
+date: 2018-11-17
+img: swiftdraganddrop.jpg
+thumbnail: swiftdragandrop-thumbnail.jpg
+alt: image-alt
+project-date: Nov 2018 – Present
+client: Self Development
+project-url:
+    - url: https://github.com/uyphanha/SwiftDragAndDrop
+      name: iOS Framework
+category: iOS Framework Developement
+description: "Simple Drag and Drop component of multiple UITableView written in Swift
+
+Key features included
+<br>•	Smooth animations
+<br>• Automatic edge scrolling
+<br>• Works with multiple UITableViews
+<br>• Customizable shadow, scaling, and transparency effects"
+
+---
