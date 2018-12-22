@@ -12,6 +12,14 @@ body {
     font-family: {{ site.data.template.font.primary }};
 }
 
+img.error-404 {
+    max-width: 400px;
+}
+
+.error-desc {
+    margin-top: -40px;
+}
+
 .middle-box {
     position: absolute;
     max-height: 400px;
