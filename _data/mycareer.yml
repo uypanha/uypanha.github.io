@@ -4,13 +4,13 @@ careeries:
   logo: img/career/mad.jpg
   time: Feburary 2018 - Present
   position: Senior Mobile Application Developer
-  description: Now I'm in Mäd and develop mobile application (<b>PiPay</b> is one of Potential Projects). :)
+  description: Now I'm in Mäd and develop mobile application (<b>PiPay</b> is one of Potential Projects). :)<br> So far so good, I've developed applicatoins&#8758; <b>The ComeBackApp (Android/iOS)</b> and <b>Bloo Project Management App(iOS)</b>.
 
 - name: Mobile C&C (Cambodia) Co.,LTD
   logo: img/career/mcnc.jpg
   time: May 2015 - Feburary 2018
   position: Android Application Developer
-  description: With this position, I design, build, and maintain high performance, reusable, and reliable java code to application of the company and also client Apps. All applications are needed to identify, correct bottlenecks and fix bugs. Not only to develop application, I’m also involving in R&D (research and development) team to research and build new native component for company’s framework (Android). Responsibility always needed, I helped to maintain code quality, organization, and automatization of applications also. Translate the designs and wireframes into high quality code also a part of this career!
+  description: With this position, I design, build, and maintain high performance, reusable, and reliable java code to application of the company and also client Apps. All applications are needed to identify, correct bottlenecks and fix bugs. Not only to develop application, I’m also involving in R&D (research and development) team to research and build new native component for company’s framework (Android). Responsibility always needed, I helped to maintain code quality, organization, and automatization of applications also. Translate the designs and wireframes into high quality code also a part of this career! <br> In this Company, I've developed applications such as&#8758;<br><ul><li>LifeOn Shop (Android)</li><li>ChoiceTaxi App (Android/iOS)</li><li>PPCBank Mobile App (Android)</li></ul>
 
 - name: Cambodia-Korea Corporation Center (CKCC)
   logo: img/career/ckcc.jpg
@@ -22,4 +22,4 @@ careeries:
   logo: img/career/rupp.png
   time: November 2011 - March 2015
   position: Student
-  description: Graduated from university with Computer Science and Engineering Bachelor Degree.
+  description: Graduated from university with <b>Computer Science and Engineering Bachelor Degree</b>.
