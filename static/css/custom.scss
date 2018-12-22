@@ -12,12 +12,12 @@ body {
     font-family: {{ site.data.template.font.primary }};
 }
 
-img.error-404 {
-    max-width: 400px;
+.error-gray-bg {
+    background: #F9FAFB;
 }
 
-.error-desc {
-    margin-top: -40px;
+img.error-404 {
+    max-width: 400px;
 }
 
 .middle-box {
