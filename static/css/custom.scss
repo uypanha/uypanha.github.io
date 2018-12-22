@@ -7,3 +7,59 @@
 @import "open_sans";
 @import "roboto";
 @import "style";
+
+body {
+    font-family: {{ site.data.template.font.primary }};
+}
+
+.middle-box {
+    position: absolute;
+    max-height: 400px;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0px;
+}
+
+.btn-primary{
+    color:#fff;
+    background-color:#{{ site.data.template.color.primary }};
+    border-color:#{{ site.data.template.color.secondary }}
+}
+.btn-primary.focus,.btn-primary:focus{
+    color:#fff;
+    background-color:#{{ site.data.template.color.secondary }};
+    border-color: #{{ site.data.template.color.secondary }}
+}.btn-primary:hover{
+    color:#fff;
+    background-color: #{{ site.data.template.color.secondary }};
+    border-color: #{{ site.data.template.color.primary }}
+}.btn-primary.active,.btn-primary:active,.open>.dropdown-toggle.btn-primary{
+    color:#fff;
+    background-color:#{{ site.data.template.color.secondary }};
+    border-color:#{{ site.data.template.color.primary }}
+}.btn-primary.active.focus,.btn-primary.active:focus,.btn-primary.active:hover,.btn-primary:active.focus,.btn-primary:active:focus,.btn-primary:active:hover,.open>.dropdown-toggle.btn-primary.focus,.open>.dropdown-toggle.btn-primary:focus,.open>.dropdown-toggle.btn-primary:hover{
+    color:#fff;
+    background-color:#{{ site.data.template.color.primary }};
+    border-color:#{{ site.data.template.color.primary }}
+}.btn-primary.active,.btn-primary:active,.open>.dropdown-toggle.btn-primary{
+    background-image:none
+}.btn-primary.disabled.focus,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary[disabled].focus,.btn-primary[disabled]:focus,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary.focus,fieldset[disabled] .btn-primary:focus,fieldset[disabled] .btn-primary:hover{
+    background-color:#{{ site.data.template.color.primary }};
+    border-color:#{{ site.data.template.color.secondary }}
+}.btn-primary .badge{
+    color:#{{ site.data.template.color.primary }};
+    background-color:#fff
+}
+
+.pace .pace-progress {
+    background: #{{ site.data.template.color.primary }};
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    right: 100%;
+    width: 100%;
+    height: 2px;
+}
