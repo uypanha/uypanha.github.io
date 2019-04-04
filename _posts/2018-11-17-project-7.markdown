@@ -4,8 +4,8 @@ subtitle: iOS Framework Developement
 layout: default
 modal-id: 7
 date: 2018-11-17
-img: swiftdraganddrop.jpg
-thumbnail: swiftdragandrop-thumbnail.jpg
+img: swiftdraganddrop/swiftdraganddrop.jpg
+thumbnail: swiftdraganddrop/swiftdragandrop-thumbnail.jpg
 alt: image-alt
 project-date: Nov 2018 – Present
 client: Self Development

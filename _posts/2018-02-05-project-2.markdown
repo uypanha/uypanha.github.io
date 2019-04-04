@@ -4,8 +4,8 @@ subtitle: Mobile Developement
 layout: default
 modal-id: 2
 date: 2018-01-30
-img: choice-taxi.jpg
-thumbnail: choice-taxi-thumbnail.jpg
+img: choice-taxi/choice-taxi.jpg
+thumbnail: choice-taxi/choice-taxi-thumbnail.jpg
 alt: image-alt
 project-date: Sep 2016 – Sep 2017
 client: Choice Taxi

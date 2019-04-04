@@ -4,8 +4,8 @@ subtitle: iOS Developement
 layout: default
 modal-id: 4
 date: 2018-01-30
-img: black-factory-cafe.jpg
-thumbnail: black-factory-cafe-thumbnail.jpg
+img: black-factory-coffee/black-factory-cafe.jpg
+thumbnail: black-factory-coffee/black-factory-cafe-thumbnail.jpg
 alt: image-alt
 project-date: Apr 2017 – Jun 2017
 client: Black Factory Cafe
