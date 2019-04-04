@@ -1,8 +1,14 @@
 # Experince
 careeries:
+- name: Bloo Inc
+  logo: img/career/bloo.jpg
+  time: July 2018 - Present
+  position: Senior Mobile Application Developer
+  description: Now I'm in Bloo Inc 😄. Bloo is Building the Operating System (OS) for businesses. One system that just works seamlessly across everything that you need to do.
+
 - name: M.A.D (Cambodia) Co., Ltd
   logo: img/career/mad.jpg
-  time: Feburary 2018 - Present
+  time: Feburary 2018 - July 2018
   position: Senior Mobile Application Developer
   description: Now I'm in Mäd and develop mobile applications <b>(iOS/Android)</b>. From the start, I've learned from this company a lots. <br> So far so good, I've developed applicatoins&#8758; <b>The ComeBackApp (Android/iOS)</b> and <b>Bloo Project Management App (iOS)</b>.
 

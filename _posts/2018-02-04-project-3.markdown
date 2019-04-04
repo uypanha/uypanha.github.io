@@ -4,8 +4,8 @@ subtitle: Android Developement
 layout: default
 modal-id: 3
 date: 2018-01-30
-img: lifeon-shop.jpg
-thumbnail: lifeon-shop-thumbnail.jpg
+img: lifeon/lifeon-shop.jpg
+thumbnail: lifeon/lifeon-shop-thumbnail.jpg
 alt: image-alt
 project-date: Jun 2016 – Jun 2016
 client: LifeOn Shop

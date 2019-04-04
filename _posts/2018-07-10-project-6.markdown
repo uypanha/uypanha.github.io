@@ -4,8 +4,8 @@ subtitle: Mobile Developement
 layout: default
 modal-id: 6
 date: 2018-07-10
-img: thecomebackapp.jpg
-thumbnail: thecomebackapp-thumbnail.png
+img: comebackapp/thecomebackapp.jpg
+thumbnail: comebackapp/thecomebackapp-thumbnail.png
 alt: image-alt
 project-date: Feb 2018 – Jun 2018
 client: The ComeBackApp Limited

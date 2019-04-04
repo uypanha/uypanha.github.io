@@ -4,8 +4,8 @@ subtitle: Android Developement
 layout: default
 modal-id: 1
 date: 2018-01-30
-img: ppcbank-mobile-banking.jpg
-thumbnail: ppcbank-mobile-banking-thumbnail.jpg
+img: ppcbank/ppcbank-mobile-banking.jpg
+thumbnail: ppcbank/ppcbank-mobile-banking-thumbnail.jpg
 alt: image-alt
 project-date: June 2016 – Apr 2017
 client: PPCBank
