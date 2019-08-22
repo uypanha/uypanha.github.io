@@ -11,7 +11,7 @@ project-date: Jun 2016 – Jun 2016
 client: LifeOn Shop
 project-url: 
     - url: https://play.google.com/store/apps/details?id=kr.co.mcnc.lifeonshop
-      name: Android
+      name: Android (Removed from Store by owner)
 category: Mobile Development
 description: "LifeOn Shop is a tredy and sophisticated mobile commerce service for Cambodian people. LifeOn Shop provides new concepts of online commerce such as group sales, time sales and social commerce. You can also buy famous products from developed countries in Cambodia. 
 LifeOn Shop provides various payment options like credit card, Wing online payment, fund transfer through bank account and Wing account, and cash on delivery. 
