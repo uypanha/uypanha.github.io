@@ -1,6 +1,6 @@
 ---
 title: Bloo Teamwork
-subtitle: iOS Developement
+subtitle: Mobile Developement
 layout: default
 modal-id: 8
 date: 2019-04-04
@@ -11,8 +11,10 @@ project-date: July 2018 – Present
 client: Bloo Inc
 project-url:
     - url: https://itunes.apple.com/us/app/bloo-teamwork/id1440262413?ls=1&mt=8
-      name: iOS Application
-category: iOS Developement
+      name: iOS
+    - url: https://play.google.com/store/apps/details?id=io.bloo.android
+      name: Android
+category: Mobile Developement
 description: "Teamwork, Made Simple. Bloo is a teamwork software that's both powerful and super-simple to use, which means your teams will love it and use it, and it will actually add value to your company.<br>
 
 <br>• EASY - Anyone can use Bloo without any training or reading instructions!
