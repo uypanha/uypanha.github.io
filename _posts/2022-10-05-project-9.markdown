@@ -11,7 +11,7 @@ project-date: July 2021 – Present
 client: RMA Group
 project-url:
     - url: https://apps.apple.com/kh/app/hungry-delivery/id1517562693
-      name: iOS
+      name: iOS - AppStore
 category: iOS Developement
 description: "HungryApp - Happiness delivered.
 
