@@ -1,4 +1,4 @@
-Phanha UY
+Panha UY
 
 Credited Theme - Agency Jekyll theme
 ====================
