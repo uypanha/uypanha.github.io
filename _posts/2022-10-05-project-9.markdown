@@ -13,38 +13,38 @@ project-url:
     - url: https://apps.apple.com/kh/app/hungry-delivery/id1517562693
       name: iOS - AppStore
 category: iOS Developement
-description: "HungryApp - Happiness delivered.
+description: "HungryApp - Happiness delivered.<br>
 
-Are you tired of arguing over what restaurant to choose? Bored of having to sacrifice one delight for another? Welcome to the newest, most convenient solution for food deliveries. HungryApp allows you to order multiple items, from multiple brands, in one single order - keeping everyone happy!
+Are you tired of arguing over what restaurant to choose? Bored of having to sacrifice one delight for another? Welcome to the newest, most convenient solution for food deliveries. HungryApp allows you to order multiple items, from multiple brands, in one single order - keeping everyone happy!<br>
 
-Download our app today, to check if you’re within our delivery area.
+Download our app today, to check if you’re within our delivery area.<br>
 
-Whether you are dreaming of a delicious deep-pan pizza from The Pizza Company, or a dozen of the best Krispy Kreme donuts, we’ve got you covered! We guarantee that you can get all the items you want, from all of our trusted brands, within one single order within 30 minutes. And, for added happiness, we will always offer free delivery.
+Whether you are dreaming of a delicious deep-pan pizza from The Pizza Company, or a dozen of the best Krispy Kreme donuts, we’ve got you covered! We guarantee that you can get all the items you want, from all of our trusted brands, within one single order within 30 minutes. And, for added happiness, we will always offer free delivery.<br>
 
-What great brands are included?
+What great brands are included?<br>
 
-The Pizza Company
-The Coffee Club
-DQ
-BBQ Plaza
-Krispy Kreme
-Swensen’s
-Coca-Cola
+<br>The Pizza Company
+<br>The Coffee Club
+<br>DQ
+<br>BBQ Plaza
+<br>Krispy Kreme
+<br>Swensen’s
+<br>Coca-Cola<br>
 
-Packed full of extra delight.
+Packed full of extra delight.<br>
 
-When ordering via HungryApp, you’ll be able to access exclusive promotions and discounts. Whether you’re looking for a special Birthday Bundle for that ideal party, or if you’re excited for a decadent office lunch - HungryApp is the perfect solution for a more diverse and delicious delivery experience.
+When ordering via HungryApp, you’ll be able to access exclusive promotions and discounts. Whether you’re looking for a special Birthday Bundle for that ideal party, or if you’re excited for a decadent office lunch - HungryApp is the perfect solution for a more diverse and delicious delivery experience.<br>
 
-Our customers are our focus, and ensuring we provide a great service is important to our mission of improving the delivery service process. As such, we regularly create new bundles, send out special promotions and sales, add surprise bonus items to orders, and offer happiness through bespoke discount codes. Join HungryApp today, for a better delivery experience.
+Our customers are our focus, and ensuring we provide a great service is important to our mission of improving the delivery service process. As such, we regularly create new bundles, send out special promotions and sales, add surprise bonus items to orders, and offer happiness through bespoke discount codes. Join HungryApp today, for a better delivery experience.<br>
 
-How it Works.
+How it Works.<br>
 
-Create an account with us, and set up your delivery address(es). Once you’re ready to order, browse through our large range of products, combining as many items from as many brands as you wish. Once you’re done, click on the checkout to review and confirm your order! Then, one of our HungryApp drivers will be assigned your order, collecting everything and delivering the items to you fresh within 30 minutes at no extra charge.
+Create an account with us, and set up your delivery address(es). Once you’re ready to order, browse through our large range of products, combining as many items from as many brands as you wish. Once you’re done, click on the checkout to review and confirm your order! Then, one of our HungryApp drivers will be assigned your order, collecting everything and delivering the items to you fresh within 30 minutes at no extra charge.<br>
 
-The HungryApp Team.
+The HungryApp Team.<br>
 
-Customer satisfaction matters, so we have a dedicated team available to respond to any questions promptly and efficiently. Whether you need help with the ordering process, or if you have any questions for us, we’re happy to help!
+Customer satisfaction matters, so we have a dedicated team available to respond to any questions promptly and efficiently. Whether you need help with the ordering process, or if you have any questions for us, we’re happy to help!<br>
 
-Contact us through a real-time messenger platform, visit our website at: hungryapp.asia, or send us an email at: care.hungryapp@rmagroup.net"
+Contact us through a real-time messenger platform, visit our website at: hungryapp.asia, or send us an email at: care.hungryapp@rmagroup.net"<br>
 
 ---
