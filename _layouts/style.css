@@ -2,3 +2,11 @@
 {% include css/agency.css %}
 {% include css/contact.css %}
 {{ content }}
+
+.top-corner {
+    border-radius: 16px 16px 0px 0px;
+}
+
+.botom-corner {
+    border-radius: 0px 0px 16px 16px;
+}
