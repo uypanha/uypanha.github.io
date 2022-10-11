@@ -3,7 +3,7 @@ baseurl: ""
 reumeUrl: "https://uypanha.github.io/files/Resume-PanhaUy.pdf"
 
 # Site settings
-title: Panha UY
+title: Panha UY, Mr
 logo: img/site/logo.png
 favicon: img/site/favicon.png
 position: Senior Mobile<br>Application Developer
@@ -32,8 +32,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 271 Sangkat Beongsalang
-  - line: Khan Toulkork, CA 12160	
+  - line: St BT, House No R74, Preylgnor Village, Sangkat Chaom Chau 2
+  - line: Khan Pur Senchey, CA 120910
 
 # Build settings
 markdown: kramdown
