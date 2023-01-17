@@ -1,31 +1,31 @@
 ---
-title: Bloo Teamwork
+title: Blue Teamwork
 subtitle: Mobile Developement
 layout: default
 modal-id: 8
 date: 2019-04-04
-img: bloo/bloo.jpg
-thumbnail: bloo/bloo-thumbnail.jpg
+img: blue/blue.jpg
+thumbnail: blue/blue-thumbnail.jpg
 alt: image-alt
 project-date: July 2018 – Present
 client: Bloo Inc
 project-url:
-    - url: https://itunes.apple.com/us/app/bloo-teamwork/id1440262413?ls=1&mt=8
+    - url: https://apps.apple.com/us/app/blue-teamwork/id6443870775
       name: iOS
     - url: https://play.google.com/store/apps/details?id=io.bloo.android
       name: Android
 category: Mobile Developement
-description: "Teamwork, Made Simple. Bloo is a teamwork software that's both powerful and super-simple to use, which means your teams will love it and use it, and it will actually add value to your company.<br>
+description: "Teamwork, Made Simple. Blue is a teamwork software that's both powerful and super-simple to use, which means your teams will love it and use it, and it will actually add value to your company.<br>
 
-<br>• EASY - Anyone can use Bloo without any training or reading instructions!
-<br>• POWERFUL - Bloo can power your entire business without breaking a sweat.
+<br>• EASY - Anyone can use Blue without any training or reading instructions!
+<br>• POWERFUL - Blue can power your entire business without breaking a sweat.
 <br>• EVERYWHERE - Always online, 24/7/365. Use from any computer or smartphone to have all your data in one place.
 
 <br><br>Keeping a growing team organized is difficult. You have to track communication, files, responsibilities, timelines, and ensure that everyone is on the same page.
 
 <br><br>Group chats and email don't work for doing anything more than organizing drinks with friends, and the \"professional\" tools are too complex (and boring!), which means your teams don't actually use them!
 
-<br><br>Bloo solves just this problem. It's a teamwork software that's both powerful and super-simple to use, which means your team will love it and use it, and it will actually add value to your company.
+<br><br>Blue solves just this problem. It's a teamwork software that's both powerful and super-simple to use, which means your team will love it and use it, and it will actually add value to your company.
 
 <br><br>Best thing? It's $50USD/month for unlimited projects, users, and files."
 
