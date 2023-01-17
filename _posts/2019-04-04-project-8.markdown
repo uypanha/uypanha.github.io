@@ -25,8 +25,6 @@ description: "Teamwork, Made Simple. Blue is a teamwork software that's both pow
 
 <br><br>Group chats and email don't work for doing anything more than organizing drinks with friends, and the \"professional\" tools are too complex (and boring!), which means your teams don't actually use them!
 
-<br><br>Blue solves just this problem. It's a teamwork software that's both powerful and super-simple to use, which means your team will love it and use it, and it will actually add value to your company.
-
-<br><br>Best thing? It's $50USD/month for unlimited projects, users, and files."
+<br><br>Blue solves just this problem. It's a teamwork software that's both powerful and super-simple to use, which means your team will love it and use it, and it will actually add value to your company."
 
 ---
