@@ -1,16 +1,22 @@
 # Experince
 careeries:
+- name: ABA Bank
+  logo: img/career/aba.jpeg
+  time: February 2023 - Present
+  position: Senior Android Application Developer (R&D)
+  description: Now I'm in ABA Bank, Cambodia. ABA is a reliable commercial bank in Cambodia, member of National Bank of Canada Group. With this position, I research, design, build, and maintain high performance, reusable, and reliable code to applications of the company.
+
 - name: Bloo Inc
   logo: img/career/blue.jpg
-  time: July 2018 - Present
+  time: July 2018 - February 2023
   position: Senior Mobile Engineer
-  description: Now I'm in Bloo Inc. Bloo is Building the Operating System (OS) for businesses. One system that just works seamlessly across everything that you need to do.
+  description: It was a great experiences to work in this company. Bloo is Building the Operating System (OS) for businesses. One system that just works seamlessly across everything that you need to do.
 
 - name: M.A.D (Cambodia) Co., Ltd
   logo: img/career/mad.jpg
-  time: Feburary 2018 - Present
-  position: Senior Mobile Engineer
-  description: It is a great experiences to work in this company as I've involved great projects of well-known enterprises (<b>PiPay</b>, b>Hungry? App</b> are ones of them). I've learned from this company a lots (both management skills and techinical skills). <br><br> So far so good, I've developed applicatoins&#8758; <b>The ComeBackApp (Android/iOS)</b> and <b>Blue Project Management App (iOS)</b>.
+  time: Feburary 2018 - February 2023
+  position: Senior Mobile Application Developer
+  description: It was a great experiences to work in this company as I've involved great projects of well-known enterprises (<b>PiPay</b> is one of them). I've learned from this company a lots (both management skills and techinical skills). <br><br> So far so good, I've developed applicatoins&#8758; <b>The ComeBackApp (Android/iOS)</b> and <b>Bloo Project Management App (iOS)</b>.
 
 - name: Mobile C&C (Cambodia) Co.,LTD
   logo: img/career/mcnc.jpg
