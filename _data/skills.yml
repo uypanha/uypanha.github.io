@@ -3,4 +3,4 @@
 label: Ability
 id : cs
 aspects:    Android,  iOS,  React-Native, Flutter
-percentage: 95,       95,   75,           80
+percentage: 95,       95,   75,           80 
