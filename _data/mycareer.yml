@@ -3,8 +3,8 @@ careeries:
 - name: ABA Bank
   logo: img/career/aba.jpeg
   time: February 2023 - Present
-  position: Senior Android Application Developer (R&D)
-  description: Now I'm in ABA Bank, Cambodia. ABA is a reliable commercial bank in Cambodia, member of National Bank of Canada Group. With this position, I research, design, build, and maintain high performance, reusable, and reliable code to applications of the company.
+  position: Senior Android Developer
+  description: At ABA Bank, Cambodia, a member of the National Bank of Canada Group, I contribute to the architecture and development of the <b>ABA Mobile App</b>, a mission-critical digital banking platform serving a large user base. I focus on scalable system design, performance optimization, and writing clean, maintainable code that meets enterprise-grade standards for security and reliability.
 
 - name: Bloo Inc
   logo: img/career/blue.jpg
